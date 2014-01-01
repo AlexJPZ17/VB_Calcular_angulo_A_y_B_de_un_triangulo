@@ -1,0 +1,10 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\CalcularAngulo A del triangulo\CalcularAngulo A del triangulo\bin\Debug\CalcularAngulo A del triangulo.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\CalcularAngulo A del triangulo\CalcularAngulo A del triangulo\bin\Debug\CalcularAngulo A del triangulo.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\CalcularAngulo A del triangulo\CalcularAngulo A del triangulo\bin\Debug\CalcularAngulo A del triangulo.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\CalcularAngulo A del triangulo\CalcularAngulo A del triangulo\bin\Debug\CalcularAngulo A del triangulo.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\CalcularAngulo A del triangulo\CalcularAngulo A del triangulo\obj\Debug\CalcularAngulo_A_del_triangulo.Form1.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\CalcularAngulo A del triangulo\CalcularAngulo A del triangulo\obj\Debug\CalcularAngulo_A_del_triangulo.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\CalcularAngulo A del triangulo\CalcularAngulo A del triangulo\obj\Debug\CalcularAngulo A del triangulo.vbproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\CalcularAngulo A del triangulo\CalcularAngulo A del triangulo\obj\Debug\CalcularAngulo A del triangulo.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\CalcularAngulo A del triangulo\CalcularAngulo A del triangulo\obj\Debug\CalcularAngulo A del triangulo.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\CalcularAngulo A del triangulo\CalcularAngulo A del triangulo\obj\Debug\CalcularAngulo A del triangulo.pdb
